@@ -2,6 +2,10 @@ hai
 this is the first time 
 to writing project
 4th line
+<<<<<<< HEAD
 5th line
 6th line
 
+=======
+th 
+>>>>>>> feature3
